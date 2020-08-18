@@ -5,6 +5,13 @@ public class Dugu {
         System.out.println("独孤剑法好");
         System.out.println("独孤剑法好");
         System.out.println("独孤剑法好");
-        System.out.println("独孤剑法好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
+        System.out.println("紫霞神功夫好");
     }
 }
